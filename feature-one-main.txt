@@ -1,4 +1,4 @@
 line one edited
 line two edited
-line three
+line three edited
 line fore
